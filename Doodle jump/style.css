@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background: url(resource/peakpx.jpg);
+    background-size: cover;
+}
+
+#board{
+    margin-top: 150px;
+    background: url(resource/doodlejumpbg.png); 
+}
