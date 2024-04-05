@@ -1,5 +1,5 @@
 ## To-Do list WebApp
-Its a doodle jump game made using HTML , CSS and JavaScript.
+Its a doodle jump game made using HTML , CSS and JavaScript 
 
 ## 🛠️ Description
 
