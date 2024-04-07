@@ -1,6 +1,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif ;
     text-align: center;
+    /*background: rgb(227,164,112);
+    background: linear-gradient(90deg, rgba(227,164,112,0.4385150812064965) 0%, rgba(213,158,87,1) 75%);;*/
 }
 
 hr {
