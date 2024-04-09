@@ -9,7 +9,7 @@ In this game where we have to match the of the same number such that we reach th
    <ul>
      <li>HTML</li>
      <li>CSS</li>
-     <li>JavaScipt ( using API )</li>
+     <li>JavaScipt</li>
    </ul>
 
 ## 🌟 Demo
